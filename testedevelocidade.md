@@ -13,6 +13,6 @@
 
 #####     Segue o vídeo abaixo:
      
-     >[!VIDEO](speedtest.mp4)
+     >[!VIDEO](https://gifs.com/gif/speedtest-OgLxOL)
 
      
