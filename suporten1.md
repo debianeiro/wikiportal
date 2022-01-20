@@ -3,7 +3,7 @@
 #### Clique de Acordo com o problema relatado pelo cliente.
 
 
-   ###### [link text](lentidao.md)
+   ###### [Lentidão](lentidao.md)
 
    ###### Não consigo ver meu Wifi
 
