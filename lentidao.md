@@ -4,7 +4,7 @@
 
 ##### * Peça para que o cliente realize um teste de velocidade, importante certificar o plano contratado e se o mesmo tem as condições favoraveis ao teste. ex: conectado no **Wi-fi 11ac (5Ghz).**
 
->[!TIP]
+>[!NOTE]
 >
 >Para acessar o tutorial de teste de velocidade cliqui [aqui](testedevelocidade.md).
 
