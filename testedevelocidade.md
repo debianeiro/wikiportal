@@ -13,6 +13,5 @@
 
 #####     Segue o vídeo abaixo:
      
-     >[!VIDEO](<iframe src='//gifs.com/embed/speedtest-OgLxOL' frameborder='0' scrolling='no' width='732px' height='570px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>)
-
+<iframe src='//gifs.com/embed/speedtest-OgLxOL' frameborder='0' scrolling='no' width='732px' height='570px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
      
