@@ -14,6 +14,6 @@
 #####     Segue o vídeo abaixo:
      
      
->[!SpeedTest](https://j.gifs.com/OgLxOL.gif)
+>[SpeedTest](https://j.gifs.com/OgLxOL.gif)
 
      
