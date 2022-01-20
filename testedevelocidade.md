@@ -14,6 +14,8 @@
 #####     Segue o vídeo abaixo:
      
      
+     
 >[SpeedTest](https://j.gifs.com/OgLxOL.gif)
 
+>[Fast](https://j.gifs.com/J8zpG2.gif)
      
